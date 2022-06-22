@@ -94,6 +94,7 @@ const nextConfig = {
       "en",
       "es",
       "de",
+      "ru",
       // 'fr',
       // 'hi',
       // 'it',
